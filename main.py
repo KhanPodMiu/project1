@@ -9,6 +9,7 @@ def isPrime(n):
 def countPrimes(n):
     pass
 
+#fix some minor bugs
 
 def sortArray():
     # Nhận một chuỗi các số nguyên từ người dùng, cách nhau bởi dấu cách

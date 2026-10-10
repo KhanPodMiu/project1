@@ -6,6 +6,9 @@ def isPrime(n):
             return False
     return True
 
+def countPrimes(n):
+    pass
+
 
 print("hello, world")
 num_to_check = 7
